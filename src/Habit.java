@@ -96,13 +96,13 @@ public class Habit extends javax.swing.JFrame {
         a.setText("Sholat Malam  \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
         }
         if(Hari.getSelectedItem().equals("Kamis")){
-        a.setText("Sholat Malam  \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
+        a.setText("Sholat Malam  \n puasa \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
         }
         if(Hari.getSelectedItem().equals("Jumat")){
-        a.setText("Sholat Malam \n Puasa \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
+        a.setText("Sholat Malam \n membaca Al-Kahf \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
         }
         if(Hari.getSelectedItem().equals("Sabtu")){
-        a.setText("Sholat Malam \n membaca Al-Kahf \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
+        a.setText("Sholat Malam  \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
         }
         if(Hari.getSelectedItem().equals("minggu")){
         a.setText("Sholat Malam \n Sholat Subuh \n Sholat Dhuhur \n Sholat Ashar \n Ngaji \n Sholat Magrib \n Sholat Isyak");
